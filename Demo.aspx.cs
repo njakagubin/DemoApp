@@ -12,6 +12,7 @@ namespace DemoApplication
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            this.lblName.Text = "Predrag Ruzic";
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
