@@ -13,6 +13,7 @@ namespace DemoApplication
         {
 
             this.lblName.Text = "Predrag Ruzic";
+            this.txtName.Text = "Stana Ruzic";
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
